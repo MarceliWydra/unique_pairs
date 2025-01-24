@@ -12,7 +12,7 @@ This repository provides a Python solution to find and group all unique pairs in
 
 ## Tests
 To run test:
-    ```bash
+    ```
     pytest tests.py
     ```
 
